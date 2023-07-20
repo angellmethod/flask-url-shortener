@@ -1,4 +1,5 @@
 /urlshort/static/user_files/*
+urls.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
